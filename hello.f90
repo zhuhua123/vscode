@@ -18,8 +18,7 @@ close(12)
 read(*,*)
 stop
 END
-SUBROUTINE ADD(A,B,C)
-    END SUBROUTINE
+kkkk
     
 
 
